@@ -1,1 +1,1 @@
-It's a simple hello world program on swift programming language
+It's a simple comments file
